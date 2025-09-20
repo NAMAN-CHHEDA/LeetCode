@@ -47,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
