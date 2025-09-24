@@ -52,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0009-palindrome-number) |
+## Database
+|  |
+| ------- |
+| [1317-monthly-transactions-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1317-monthly-transactions-i) |
 <!---LeetCode Topics End-->
