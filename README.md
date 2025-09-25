@@ -61,5 +61,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1317-monthly-transactions-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1877-find-followers-count](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
