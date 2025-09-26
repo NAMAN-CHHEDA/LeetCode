@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -70,4 +71,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
