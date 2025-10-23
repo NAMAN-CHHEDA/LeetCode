@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
