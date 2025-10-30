@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
