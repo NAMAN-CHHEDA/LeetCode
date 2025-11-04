@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +126,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
