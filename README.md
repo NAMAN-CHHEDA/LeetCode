@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1317-monthly-transactions-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1827-invalid-tweets](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
