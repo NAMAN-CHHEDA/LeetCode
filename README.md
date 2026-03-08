@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1045-customers-who-bought-all-products) |
+| [1075-project-employees-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1075-project-employees-i) |
 | [1135-customers-who-bought-all-products](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1164-product-price-at-a-given-date) |
