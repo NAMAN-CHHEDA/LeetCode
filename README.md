@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1045-customers-who-bought-all-products](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1045-customers-who-bought-all-products) |
 | [1075-project-employees-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1075-project-employees-i) |
 | [1135-customers-who-bought-all-products](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1135-customers-who-bought-all-products) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1155-product-sales-analysis-iii](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1164-product-price-at-a-given-date](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1164-product-price-at-a-given-date) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/NAMAN-CHHEDA/LeetCode/tree/master/1245-user-activity-for-the-past-30-days-i) |
