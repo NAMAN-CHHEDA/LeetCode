@@ -1,9 +1,10 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        hashMap = {}
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        hashmap = {}
 
         for i,n in enumerate(nums):
-            difference = target - n
-            if difference in hashMap:
-                return [hashMap[difference], i]
-            hashMap[n] = i
+            diff = target - n
+            if diff in hashmap:
+                return [hashmap[diff], i]
+            hashmap[n] = i
+        return
